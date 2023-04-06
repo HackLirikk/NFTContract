@@ -1,0 +1,15 @@
+{
+    "description": "Super monkeys",
+    "image": "ipfs://QmWWfq5TPcTXr3Fp3Hqd8QEhsVU5nXgEPiy4Mw2HT5MKqL/2.png",
+    "name": "Monkeys Rich",
+    "attributes": [
+    {
+        "trait_type": "Base",
+        "value": "High"
+    },
+    {
+        "trait_type": "Level",
+        "value": 5
+    }
+    ]
+}
